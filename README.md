@@ -1,5 +1,16 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## About this list
+
+Items:
+
+- 🧰 : list of resources
+- 📖 : book
+- 🎞 : video/movie extract/movie
+- 🎤 : slides/presentation
+- O  : My own learnings
+
+
 ## Table of Contents
 
 - [About this list](#about-this-list)
@@ -75,14 +86,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## About this list
-
-Items:
-
-- 🧰 : list of resources
-- 📖 : book
-- 🎞 : video/movie extract/movie
-- 🎤 : slides/presentation
 
 ## Books
 
